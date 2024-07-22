@@ -1,1 +1,1 @@
-# hpc_patient_data_analytics
+# HPC Patient Data Analytics
